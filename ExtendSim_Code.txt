@@ -1,5 +1,4 @@
 //Edited this file
-//mrugank edit
 integer i,j,k;
 integer u;
 integer a;
